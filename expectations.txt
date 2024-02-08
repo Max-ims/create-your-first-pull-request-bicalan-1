@@ -1,0 +1,3 @@
+In CMSC 100, I expect myself to learn the fundamentals of web development. Particularly the basics
+of html css js and REACT for frontend. Also by the end of semester, hopefully i have the enough knowledge
+about how the web works so that I can use this knowledge for future field of interests related to computer science (particularly data engineering).
